@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/Chilovechek/rsschool-cv.git
