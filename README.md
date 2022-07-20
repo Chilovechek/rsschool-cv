@@ -1,1 +1,1 @@
-# https://github.com/Chilovechek/rsschool-cv.git
+# https://github.com/Chilovechek/rsschool-cv/blob/gh-pages/cv.md
