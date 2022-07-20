@@ -1,11 +1,11 @@
 # Alexandr Kudry
 ***
-###Contacts:
+### Contacts:
 * **email**: Alex_kudry@mail.ru
 * **dicsord**: @Chilovechek
 * **phone**: +79999999999
 ***
-###About Me:
+### About Me:
 I hope that I can become Frontend Developer
 ***
 ### Skills
